@@ -32,6 +32,11 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 
 * Contributors are welcome to give their projects inside the domains specified, of their choice and push requests.
 
+## Repository Structure
+
+<img width="3892" alt="hacktober flow 3" src="https://user-images.githubusercontent.com/78409764/193058867-9fc9d394-da18-49c2-aa26-723fe39fc2e4.png">
+
+
 ## Rules and Regulations
 
 
