@@ -1,18 +1,18 @@
 | Question Status | Name         | Link     | Question Tags |
 | --------------- | ------------ | -------- | ------------- |
-| []              | Two Sum      | [Link]() | **Recursion** |
-| []              | Content Cell | [Link]() | **Recursion** |
-| []              | Two Sum      | [Link]() | **Recursion** |
-| []              | Content Cell | [Link]() | **Recursion** |
-| []              | Two Sum      | [Link]() | **Recursion** |
-| []              | Content Cell | [Link]() | **Recursion** |
-| []              | Two Sum      | [Link]() | **Recursion** |
-| []              | Content Cell | [Link]() | **Recursion** |
-| []              | Two Sum      | [Link]() | **Recursion** |
-| []              | Content Cell | [Link]() | **Recursion** |
-| []              | Two Sum      | [Link]() | **Recursion** |
-| []              | Content Cell | [Link]() | **Recursion** |
-| []              | Two Sum      | [Link]() | **Recursion** |
-| []              | Content Cell | [Link]() | **Recursion** |
-| []              | Two Sum      | [Link]() | **Recursion** |
-| []              | Content Cell | [Link]() | **Recursion** |
+| &#9744;         | Two Sum      | [Link]() | `Recursion` `Linked List` |
+| &#9744;         | Content Cell | [Link]() | **Recursion** |
+| &#9744;         | Two Sum      | [Link]() | **Recursion** |
+| &#9744;         | Content Cell | [Link]() | **Recursion** |
+| &#9744;         | Two Sum      | [Link]() | **Recursion** |
+| &#9744;         | Content Cell | [Link]() | **Recursion** |
+| &#9744;         | Two Sum      | [Link]() | **Recursion** |
+| &#9744;         | Content Cell | [Link]() | **Recursion** |
+| &#9744;         | Two Sum      | [Link]() | **Recursion** |
+| &#9744;         | Content Cell | [Link]() | **Recursion** |
+| &#9744;         | Two Sum      | [Link]() | **Recursion** |
+| &#9744;         | Content Cell | [Link]() | **Recursion** |
+| &#9744;         | Two Sum      | [Link]() | **Recursion** |
+| &#9744;         | Content Cell | [Link]() | **Recursion** |
+| &#9744;         | Two Sum      | [Link]() | **Recursion** |
+| &#9744;         | Content Cell | [Link]() | **Recursion** |
