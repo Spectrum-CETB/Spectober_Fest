@@ -1,5 +1,12 @@
 # Spectober Fest
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub forks](https://img.shields.io/github/forks/Spectrum-CETB/Spectober_Fest?style=social)](https://github.com/Spectrum-CETB/Spectober_Fest/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Spectrum-CETB/Spectober_Fest?style=social)](https://github.com/Spectrum-CETB/Spectober_Fest/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Spectrum-CETB/Spectober_Fest.svg)](https://gitHub.com/Naereen/Spectrum-CETB/Spectober_Fest/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Spectrum-CETB/Spectober_Fest.svg)](https://GitHub.com/Spectrum-CETB/Spectober_Fest/pull/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 # Introduction to Hacktoberfest 2022
 
 <img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/78409764/193025272-d0a721f8-ccd6-460f-adb4-73b236d0daea.png">
