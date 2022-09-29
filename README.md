@@ -1,4 +1,4 @@
-# Spectober_Fest
+# Spectober Fest
 
 # Introduction to Hacktoberfest 2022
 
