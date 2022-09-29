@@ -7,7 +7,7 @@
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Spectrum-CETB/Spectober_Fest.svg)](https://GitHub.com/Spectrum-CETB/Spectober_Fest/pull/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# Introduction to Hacktoberfest 2022
+# Introduction to Hacktoberfest 2022🚀
 
 <img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/78409764/193025272-d0a721f8-ccd6-460f-adb4-73b236d0daea.png">
 
@@ -37,7 +37,7 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 <img width="3892" alt="hacktober flow 3" src="https://user-images.githubusercontent.com/78409764/193058867-9fc9d394-da18-49c2-aa26-723fe39fc2e4.png">
 
 
-## Rules and Regulations
+## Rules and Regulations📃
 
 
 *  Register anytime between September 26 and October 31.
