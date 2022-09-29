@@ -1,8 +1,9 @@
 # Spectober_Fest
 
+# Introduction to Hacktoberfest 2022
+
 <img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/78409764/193025272-d0a721f8-ccd6-460f-adb4-73b236d0daea.png">
 
-# Introduction to Hacktoberfest 2022
 ## Welcome to Hacktoberfest 2022! 
 Hacktoberfest is a month-long event of open-source with various software developers from all over the world participating in it, bringing their ideas to life through various projects. It encompasses a month-long jam of skill enhancement, contribution to numerous projects and broadening of the developers’ community. 
 Coding enthusiasts and even beginners to open-source can contribute to these projects by preparing and sharing the project for collaboration and by contributing to the betterment of the project via pull requests. 
