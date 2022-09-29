@@ -14,16 +14,16 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 **Branching Structure**
 
 
-**1)** There is one main repository, named Hacktoberfest under which there are subfolders for Beginner level coding problems and other domains such as App dev, Web Dev, Java development, Python programming.
+* There is one main repository, named Hacktoberfest under which there are subfolders for Beginner level coding problems and other domains such as App dev, Web Dev, Java development, Python programming.
 
 
-**2)** Beginner-level coding problems are meant for coding enthusiasts who are starting their journey in programming and want a superb hands-on experience of Open-source as well.
+* Beginner-level coding problems are meant for coding enthusiasts who are starting their journey in programming and want a superb hands-on experience of Open-source as well.
 
 
-**3)** The domains are further subdivided into beginner and intermediate level projects which is a place intended for projects mounting to those particular difficulty levels.
+* The domains are further subdivided into beginner and intermediate level projects which is a place intended for projects mounting to those particular difficulty levels.
 
 
-**4)** Contributors are welcome to give their projects inside the domains specified, of their choice and push requests.
+* Contributors are welcome to give their projects inside the domains specified, of their choice and push requests.
 
 ## Rules and Regulations
 
@@ -36,11 +36,11 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 
 *  Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest.
 
-*  The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or    the Hacktoberfest 2022 t-shirt.
+*  The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
 *  More rules can ve viewed in the official website of [Hacktoberfest](https://hacktoberfest.com/participation/).
 
-### **_To know how to contribute_, [click here](https://github.com/sattwik21/Python-Practice/blob/master/Contributing.md).**
+### **_To know how to contribute_, [click here](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/CONTRIBUTION.md).**
 
 ## Happy Coding ! 
 
