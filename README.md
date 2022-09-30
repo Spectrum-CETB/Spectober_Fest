@@ -27,7 +27,7 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 * Beginner-level coding problems are meant for coding enthusiasts who are starting their journey in programming and want a superb hands-on experience of Open-source as well.
 
 
-* The domains are further subdivided into beginner and intermediate level projects which is a place intended for projects mounting to those particular difficulty levels.
+* The domains are categorized under advanced and intermediate projects folder which is a place intended for projects mounting to those particular difficulty levels.
 
 
 * Contributors are welcome to give their projects inside the domains specified, of their choice and push requests.
