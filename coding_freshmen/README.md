@@ -1,9 +1,14 @@
 # CODING CHALLENGE
+<a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/coding_freshmen
+"><img src="https://img.shields.io/badge/Coding%20-Challenge-blue.svg"/></a>
+<a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/coding_freshmen
+"><img src="https://img.shields.io/badge/Problem%20-Solving-purple.svg"/></a>
+
 Glad u made it up here,now we assume you have been starting your coding journey and so consider this place next to best to hone up your problem solving skills.
 Below are contribution guidelines which will help you to participate in this challenge.
 
 
-## Contribution Guidelines
+## Contribution Guidelines📃
 
 ### 1. Contribution Specifications
 
