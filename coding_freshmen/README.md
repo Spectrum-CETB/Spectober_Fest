@@ -1,3 +1,62 @@
+# CODING CHALLENGE
+Glad u made it up here,now we assume you have been starting your coding journey and so consider this place next to best to hone up your problem solving skills.
+Below are contribution guidelines which will help you to participate in this challenge.
+
+
+## Contribution Guidelines
+
+### 1. Contribution Specifications
+
+#### `Folder` Creation
+Create a `README.md` file in your folder, example `YOUR_NAME/README.md` and also add your solution file
+(**Choose any one language and at max two**).You should add your solution folder to the language specific folders.
+For eg : if you come up with a solution using python, add your solution folder to PYTHON directory(`./PYTHON/YOUR_NAME/QUESTION_NAME.py`) 
+
+- `YOUR_NAME/QUESTION_NAME.cpp` **C++**
+
+- `YOUR_NAME/QUESTION_NAME.c` **C** 
+
+- `YOUR_NAME/QUESTION_NAME.java`  **Java**
+
+-  `YOUR_NAME/QUESTION_NAME.py` **Python**
+
+
+#### `README.md` Specification / Template
+````markdown
+# <Title of the Problem>
+  < description of the problem >
+
+# Problem Explanation 🚀
+Describe the explanation in your words, which can be too precise and short. 
+
+# Your logic 🤯
+* Approach
+* Own test cases if any
+* Code Structure and Libraries used
+
+# Time Complexity and Space Complexity
+```cpp
+Example 
+
+// Time Complexity -> O(n)
+// Space Complexity -> O(1)
+
+```
+````
+
+### 2. Naming Convention
+
+Programming should keep the naming convention rule of each programming language.
+
+
+
+### 3. List of Questions
+
+* Below are the list of questions related to different topics,altogether covering the entirity of coding fundamentals.
+* Question links will be disabled as soon as we will be recieving two valid Pr/Mrs for each question.
+* You are advised to solve at max of 3 questions from the given list,so be the first one to crack the question.
+* Questions list will be updated if a particular question has reached its pr/mr limit.
+
 | Question Status | Name         | Link     | Question Tags |
 | :---------------: | :---------------: | :---------------: | :---------------: |
 | &#9744;         | 2D_ARRAY_SUM      | [Link](https://drive.google.com/file/d/1gVeQRzMZrGXtFGpAVtfBv56GXVIt4Pjf/view) | `Array` `Mathematics` |
