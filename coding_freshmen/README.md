@@ -1,4 +1,4 @@
-# CODING CHALLENGE
+# CODING CHALLENGE 💻
 <a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/coding_freshmen
 "><img src="https://img.shields.io/badge/Coding%20-Challenge-blue.svg"/></a>
 <a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/coding_freshmen
