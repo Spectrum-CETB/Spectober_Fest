@@ -1,9 +1,9 @@
 
 # Advanced Projects🚀
 
-<a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate"><img src="https://img.shields.io/badge/Projects%20-Intermediate-blue.svg"/></a>
+<a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate"><img src="https://img.shields.io/badge/Projects%20-Advanced-red.svg"/></a>
 
-As the title above suggests this folder is for projects. So if you are completely new to programming you can navigate to [coding_freshmen](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/coding_freshmen) folder. This folder is for **intermediate level projects**. If you want to work on advanced level projects then navigate to [projects_Advanced](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Advanced) folder.
+As the title above suggests this folder is for projects. So if you are completely new to programming you can navigate to [coding_freshmen](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/coding_freshmen) folder. This folder is for **advanced level projects**. If you want to work on intermediate level projects then navigate to [projects_Intermediate](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate) folder.
 
 ### **This folder consist of folders of different domains related to software and hardware. You can find differnt domains in the list given below.**
 
