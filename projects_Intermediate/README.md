@@ -20,7 +20,7 @@ As the title above suggests this folder is for projects. So if you are completel
 Follow all the rules and regulations given below otherwise your pull request will be made invalid.
 
 *  Push your projects folder to the particular domain folder.
-*  Name your folder according to format. ( `projectName_Your-Full-Name.Abbreviation` example: todo_John-Doe.WD ).
+*  Name your folder according to format. ( `projectName_Your-Full-Name` example: todo_John-Doe ).
 *  Multiple submissions of same project is not allowed.
 *  Give a brief description about the project in the pull request.
 *  Add a `README.md` file to your project with the following format:
