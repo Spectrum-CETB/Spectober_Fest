@@ -17,7 +17,7 @@ User input sanitisation
 - modified version of **Sieve of Eratosthenes** is used to make calculation much more faster.
 - clean UI with mobile responsiveness.
 
-### Tech Stack :- Javascript, Bootstrap(CSS), HTML
+### Tech Stack :-  Vanilla Javascript, CSS, HTML5
 
 ---
 ## Screenshot:-
