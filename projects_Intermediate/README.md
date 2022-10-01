@@ -24,6 +24,8 @@ Follow all the rules and regulations given below otherwise your pull request wil
 *  Multiple submissions of same project is not allowed.
 *  Give a brief description about the project in the pull request.
 *  Add a `README.md` file to your project with the following format:
+   *The `README.md` format given below is a generalised one please follow the README Template for particular tech stack and domain. To navigate to the page [click here](https://github.com/Spectrum-CETB/Spectober_Fest/issues?q=is%3Aissue+is%3Aopen+label%3A%22readme+template%22)👈.*
+   
    ```markdown
 
    # <Title of the Project>
