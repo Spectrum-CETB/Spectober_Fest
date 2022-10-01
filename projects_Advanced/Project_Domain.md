@@ -1,0 +1,51 @@
+# Projects Ideas for All Domains are Listed Below👇
+
+<a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate"><img src="https://img.shields.io/badge/Projects%20-Intermediate-blue.svg"/></a>
+<a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate"><img src="https://img.shields.io/badge/Projects%20-💡Ideas-red.svg"/></a>
+
+**We welcome you to make any project of your choice. These project ideas listed here represent what type of projects you can make. If you don't have any project idea in your mind then you definitely pick from these. But make sure you don't make a pull request for projects which are already merged to the repository. So we would suggest to check the project status before making a pull request for the ideas listed below.**
+
+## [AI & ML](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/AI_ML)
+
+| SL No.| Project Names | Status |
+| :---------------: | :---------------: | :---------------: |
+|1|| <ul><li>[ ] Merged</li></ul> |
+|2|| <ul><li>[ ] Merged</li></ul> |
+|3|| <ul><li>[ ] Merged</li></ul> |
+|4|| <ul><li>[ ] Merged</li></ul> |
+
+## [APP DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/APP_DEVELOPMENT)
+
+| SL No.| Project Names | Status |
+| :---------------: | :---------------: | :---------------: |
+|1|| <ul><li>[ ] Merged</li></ul> |
+|2|| <ul><li>[ ] Merged</li></ul> |
+|3|| <ul><li>[ ] Merged</li></ul> |
+|4|| <ul><li>[ ] Merged</li></ul> |
+
+## [HARDWARE DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/HARDWARE_DEVELOPMENT)
+
+| SL No.| Project Names | Status |
+| :---------------: | :---------------: | :---------------: |
+|1|| <ul><li>[ ] Merged</li></ul> |
+|2|| <ul><li>[ ] Merged</li></ul> |
+|3|| <ul><li>[ ] Merged</li></ul> |
+|4|| <ul><li>[ ] Merged</li></ul> |
+
+## [PYTHON DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/PYTHON_DEVELOPMENT)
+
+| SL No.| Project Names | Status |
+| :---------------: | :---------------: | :---------------: |
+|1|| <ul><li>[ ] Merged</li></ul> |
+|2|| <ul><li>[ ] Merged</li></ul> |
+|3|| <ul><li>[ ] Merged</li></ul> |
+|4|| <ul><li>[ ] Merged</li></ul> |
+
+## [WEB DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/WEB_DEVELOPEMENT)
+
+| SL No.| Project Names | Status |
+| :---------------: | :---------------: | :---------------: |
+|1|| <ul><li>[ ] Merged</li></ul> |
+|2|| <ul><li>[ ] Merged</li></ul> |
+|3|| <ul><li>[ ] Merged</li></ul> |
+|4|| <ul><li>[ ] Merged</li></ul> |
