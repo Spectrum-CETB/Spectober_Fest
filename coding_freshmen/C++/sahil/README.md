@@ -1,9 +1,8 @@
 # MAJORITY__ELEMENT
-We are given an array of size n and we have to return a Majority element that is element which ocuurs more than n/2 times in the array
-
+We are given an array of size n and we have to return a Majority element .
 # Problem Explanation 🚀
 
-
+here we have to return the Majority element that is the element that ocurrs more than n/2 times
 
 # Your logic 🤯
 * first i took the array input then traversed thru the array and on every same array element upadted a variable count ....if the count exceeds n/2 that means 
