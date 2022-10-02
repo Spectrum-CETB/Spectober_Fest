@@ -101,6 +101,7 @@ body {
   background-image: url("./images/pokeball.svg");
   background-repeat: no-repeat;
   background-size: contain;
+  cursor:pointer;
 }
 
 .tt {
