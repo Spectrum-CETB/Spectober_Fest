@@ -1,4 +1,23 @@
-# Problem Title: SORT_01
+# 1. Problem Title: Majority Element
+  Find the majority element in an array.
+
+# Problem Explanation 🚀
+A majority element is an element that appears more than n/2 times in the array, where n is the size of the array.
+
+# Logic and Intuition 🧠
+* An optimized approach will be to create a frequency array and store the frequency of each element that we iterate through the array, and finally check if the frequency of any element is greater than n/2 then that element is out majority element. The time complexity of this approach is O(n) and it has an additional space complexity of O(n) as well.
+* This can be further optimized by using [Moore's Voting Algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm) which can solve the problem in constant space.
+* In this algorithm we choose a candidate for majority element starting from the first element of the array, and we also initialize a count variable with 1.
+* Then we start traversing the array and if the element encountered is same as the candidate element then we increase the count by 1 else we decrement the count by 1.
+* If the count reaches 0 then we reset the candidate with the current element and reset the count to 1.
+* Finally we return the candidate and if the array always has a majority element then the candidate will be the answer.
+
+# Time Complexity and Space Complexity
+* Time Complexity: O(n)
+* Space Complexity: O(1)
+
+
+# 2. Problem Title: SORT_01
   Sort an array consisting of 0s and 1s
 
 # Problem Explanation 🚀
