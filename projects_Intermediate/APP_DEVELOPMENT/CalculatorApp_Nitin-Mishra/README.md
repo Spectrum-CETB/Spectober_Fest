@@ -8,7 +8,7 @@ It is a simple cross-platform calculator app made on Flutter.
 Has a history feature to see recent calculations  
 
 ## App Build
-Apk Builds can be found <a href="https://drive.google.com/drive/folders/1UbuUAy4mRQCjHda-Qhqi-T68upuLZ-Nv?usp=sharing">here</a>.
+Apk Builds can be found <a href="https://drive.google.com/drive/folders/1UbuUAy4mRQCjHda-Qhqi-T68upuLZ-Nv?usp=sharing">here</a> app.apk should work for most phones.
 
 ## Screenshots
 <table>
