@@ -17,7 +17,7 @@
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|Arthimatic Calculator| <ul><li>[ ] Merged</li></ul> |
+|1|Arthimatic Calculator| <ul><li>[X] Merged</li></ul> |
 |2|BMI Calculator| <ul><li>[ ] Merged</li></ul> |
 |3|Colour Guessing Game| <ul><li>[ ] Merged</li></ul> |
 |4|Todo App| <ul><li>[ ] Merged</li></ul> |
