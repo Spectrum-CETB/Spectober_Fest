@@ -46,6 +46,6 @@
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
 |1|Wikipedia Clone| <ul><li>[ ] Merged</li></ul> |
-|2|Netflix Clone| <ul><li>[ ] Merged</li></ul> |
+|2|Netflix UI Clone| <ul><li>[ ] Merged</li></ul> |
 |3|Portfolio Website| <ul><li>[ ] Merged</li></ul> |
 |4|To-Do List| <ul><li>[ ] Merged</li></ul> |
