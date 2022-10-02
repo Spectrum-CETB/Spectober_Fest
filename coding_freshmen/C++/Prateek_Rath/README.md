@@ -1,4 +1,4 @@
-# 1. Majority Element
+# 1. Problem Title: Majority Element
   Find the majority element in an array.
 
 # Problem Explanation 🚀
