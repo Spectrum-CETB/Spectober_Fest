@@ -9,10 +9,10 @@
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|| <ul><li>[ ] Merged</li></ul> |
-|2|| <ul><li>[ ] Merged</li></ul> |
-|3|| <ul><li>[ ] Merged</li></ul> |
-|5|| <ul><li>[ ] Merged</li></ul> |
+|1|Dog Vision| <ul><li>[ ] Merged</li></ul> |
+|2|CIFAR Image Classification| <ul><li>[ ] Merged</li></ul> |
+|3|Object Detection| <ul><li>[ ] Merged</li></ul> |
+|5|ChatBot with RASA NLU | <ul><li>[ ] Merged</li></ul> |
 
 ## [APP DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/APP_DEVELOPMENT)
 
