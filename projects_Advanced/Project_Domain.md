@@ -19,9 +19,10 @@
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
 |1|E-commerce App| <ul><li>[ ] Merged</li></ul> |
-|2|| <ul><li>[ ] Merged</li></ul> |
-|3|| <ul><li>[ ] Merged</li></ul> |
-|4|| <ul><li>[ ] Merged</li></ul> |
+|2|Food Delivery App| <ul><li>[ ] Merged</li></ul> |
+|3|Bus Tracking System| <ul><li>[ ] Merged</li></ul> |
+|4|Whatsapp Clone| <ul><li>[ ] Merged</li></ul> |
+|4|Healthy Diet App| <ul><li>[ ] Merged</li></ul> |
 
 ## [HARDWARE DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/HARDWARE_DEVELOPMENT)
 
