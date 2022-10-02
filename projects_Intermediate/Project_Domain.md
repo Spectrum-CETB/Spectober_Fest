@@ -38,7 +38,7 @@
 |1|Desktop Notifier| <ul><li>[ ] Merged</li></ul> |
 |2|Image to PDF Converter| <ul><li>[X] Merged</li></ul> |
 |3|GUI Calculator| <ul><li>[ ] Merged</li></ul> |
-|4|Rock Paper Scissors| <ul><li>[ ] Merged</li></ul> |
+|4|Rock Paper Scissors| <ul><li>[X] Merged</li></ul> |
 
 ## [WEB DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/WEB_DEVELOPEMENT)
 
