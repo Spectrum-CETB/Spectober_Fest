@@ -10,14 +10,11 @@ We can consider two strings as anagrams, if they have the same characters, and e
 
 ## My Logic
 
-1. Read in the strings from input
-2. If the strings are of different length:
-    1. Return false and exit (Cannot be an anagram)
-3. For each string do:
-    1. For each character in the string, store the frequency of the character in a dictionary.
-4. If the dictionaries are different:
-    1. Return false and exit.
-5. Return true
+1. Read in the strings from input.
+2. Created a boolean function named anagram.
+3. Converted the strings to arrays of characters.
+4. Sorted the characters in array.
+5. If the arrays are equal then true else false.
 
 ## Test cases
 
@@ -38,20 +35,6 @@ We can consider two strings as anagrams, if they have the same characters, and e
 4. Both are empty strings:
    - Input: s = "" t = ""
    - Output: true
-
-## Time Complexity
-
-The program has one for loop, and one dictionary iteration:
-
-1. The first for loop, loops over the entire two strings. Taking the strings combined length as N, it is O(N)
-2. The dictionary iteration may be up to O(len_dict_1+len_dict2). In the worst case, this would be O(N) (if all characters are unique)
-
-Total complexity is O(N) + O(N) = O(N)
-
-Hence, the time complexity is O(N).
-
-## Space Complexity
-
-The program would use a dictionary to store the characters. A dictionary would use approximately O(1) space per character. There may be N unique characters, hence the space used would be O(N*1).
-
-Total space complexity is O(N)
+   
+   
+<!-- I don't know how to calculate time and space complexity-->
