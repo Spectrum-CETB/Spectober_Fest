@@ -15,7 +15,7 @@ it satisifies the given question criteria and then as sonn as the criterion is m
 ```cpp
 
 
- Time Complexity -> O(n)
- Space Complexity -> O(1)
+ Time Complexity -> O(n^2)
+ Space Complexity -> O(n)
 
 ```
