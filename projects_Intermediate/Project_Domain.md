@@ -9,10 +9,9 @@
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|| <ul><li>[ ] Merged</li></ul> |
-|2|| <ul><li>[ ] Merged</li></ul> |
-|3|| <ul><li>[ ] Merged</li></ul> |
-|4|| <ul><li>[ ] Merged</li></ul> |
+|1|Titanic Survival Project| <ul><li>[ ] Merged</li></ul> |
+|2|Housing Prices Prediction| <ul><li>[ ] Merged</li></ul> |
+|3|Gold Rate Predictor| <ul><li>[ ] Merged</li></ul> |
 
 ## [APP DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/APP_DEVELOPMENT)
 
