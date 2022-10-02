@@ -1,0 +1,253 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #eff3ff;
+}
+
+
+.container {
+  width: 400px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+}
+
+.cards {
+  position: relative;
+  width: 100%;
+  padding: 18px 20px;
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
+
+
+
+.pokepic {
+  display: block;
+  width: 180px;
+  max-height: 200px;
+  position: relative;
+  margin: 20px auto;
+}
+
+.hp {
+  display: flex;
+  width: 80px;
+  background-color: #ffffff;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+  padding: 8px 0;
+  border-radius: 30px;
+  margin-left: auto;
+  font-weight: 400;
+  box-shadow: rgba(33, 33, 59, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
+
+.poke-name {
+  text-align: center;
+  /* font-weight: 600; */
+  font-family: 'Pokemon Solid', sans-serif;
+  letter-spacing: 2px;
+  font-weight: 200;
+
+}
+
+.types {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0 40px 0;
+  width: auto;
+}
+
+.hp span,
+.types span {
+  font-size: 22px;
+  letter-spacing: 0.4px;
+  font-weight: 600;
+}
+
+.types span {
+
+  padding: 5px 20px;
+  border-radius: 20px;
+  color: #ffffff;
+}
+
+.stats {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  padding: 5px;
+}
+
+
+.btn {
+  position: relative;
+  display: block;
+  border-radius: 50%;
+  padding: 20px 20px;
+  font-size: 18px;
+  margin: 30px auto;
+  box-shadow: 0 0 10px 7px #fb9d9d;
+  background-image: url("./images/pokeball.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.tt {
+  font-family: 'Pokemon Solid', sans-serif;
+  letter-spacing: 3px;
+  text-align: right;
+
+}
+
+.pokeball {
+  margin: auto;
+  width: 25px;
+  height: 25px;
+  float: left;
+}
+
+.box {
+  box-shadow: 0 0 5px 1px #e1c5c5;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.typeColor-bug {
+  background: radial-gradient(circle at 50% 0%, #26de81 36%, #eeeeee 36%)
+}
+
+.typeColor-dragon {
+  background: radial-gradient(circle at 50% 0%, #ffeaa7 36%, #eeeeee 36%)
+}
+
+.typeColor-electric {
+  background: radial-gradient(circle at 50% 0%, #fed330 36%, #eeeeee 36%)
+}
+
+.typeColor-fairy {
+  background: radial-gradient(circle at 50% 0%, #FF0069 36%, #eeeeee 36%)
+}
+
+.typeColor-fighting {
+  background: radial-gradient(circle at 50% 0%, #30336b 36%, #eeeeee 36%)
+}
+
+.typeColor-fire {
+  background: radial-gradient(circle at 50% 0%, #f0932b 36%, #eeeeee 36%)
+}
+
+.typeColor-flying {
+  background: radial-gradient(circle at 50% 0%, #81ecec 36%, #eeeeee 36%)
+}
+
+.typeColor-grass {
+  background: radial-gradient(circle at 50% 0%, #00b894 36%, #eeeeee 36%)
+}
+
+.typeColor-ground {
+  background: radial-gradient(circle at 50% 0%, #EFB549 36%, #eeeeee 36%)
+}
+
+.typeColor-ghost {
+  background: radial-gradient(circle at 50% 0%, #a55eea 36%, #eeeeee 36%)
+}
+
+.typeColor-ice {
+  background: radial-gradient(circle at 50% 0%, #74b9ff 36%, #eeeeee 36%)
+}
+
+.typeColor-normal {
+  background: radial-gradient(circle at 50% 0%, #95afc0 36%, #eeeeee 36%)
+}
+
+.typeColor-poison {
+  background: radial-gradient(circle at 50% 0%, #6c5ce7 36%, #eeeeee 36%)
+}
+
+.typeColor-psychic {
+  background: radial-gradient(circle at 50% 0%, #a29bfe 36%, #eeeeee 36%)
+}
+
+.typeColor-rock {
+  background: radial-gradient(circle at 50% 0%, #2d3436 36%, #eeeeee 36%)
+}
+
+.typeColor-water {
+  background: radial-gradient(circle at 50% 0%, #0190FF 36%, #eeeeee 36%)
+}
+
+
+.bug {
+  background-color: #26de81
+}
+
+.dragon {
+  background-color: #ffeaa7
+}
+
+.electric {
+  background-color: #fed330
+}
+
+.fairy {
+  background-color: #FF0069
+}
+
+.fighting {
+  background-color: #30336b
+}
+
+.fire {
+  background-color: #f0932b
+}
+
+.flying {
+  background-color: #81ecec
+}
+
+.grass {
+  background-color: #00b894
+}
+
+.ground {
+  background-color: #EFB549
+}
+
+.ghost {
+  background-color: #a55eea
+}
+
+.ice {
+  background-color: #74b9ff
+}
+
+.normal {
+  background-color: #95afc0
+}
+
+.poison {
+  background-color: #6c5ce7
+}
+
+.psychic {
+  background-color: #a29bfe
+}
+
+.rock {
+  background-color: #2d3436
+}
+
+.water {
+  background-color: #0190FF
+}
