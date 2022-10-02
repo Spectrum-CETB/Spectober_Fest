@@ -4,7 +4,7 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
     //array and variable declaration
-    int a[100];
+    int a[10000];
     int i,j,n;
     int count=0;
 
