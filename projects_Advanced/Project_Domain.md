@@ -18,7 +18,7 @@
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|| <ul><li>[ ] Merged</li></ul> |
+|1|E-commerce App| <ul><li>[ ] Merged</li></ul> |
 |2|| <ul><li>[ ] Merged</li></ul> |
 |3|| <ul><li>[ ] Merged</li></ul> |
 |4|| <ul><li>[ ] Merged</li></ul> |
@@ -45,7 +45,8 @@
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|| <ul><li>[ ] Merged</li></ul> |
-|2|| <ul><li>[ ] Merged</li></ul> |
-|3|| <ul><li>[ ] Merged</li></ul> |
-|4|| <ul><li>[ ] Merged</li></ul> |
+|1|E-Commerce Webapp| <ul><li>[ ] Merged</li></ul> |
+|2|Food Delivery Webapp| <ul><li>[ ] Merged</li></ul> |
+|3|Discussion Forum| <ul><li>[ ] Merged</li></ul> |
+|4|Flight Booking Webapp| <ul><li>[ ] Merged</li></ul> |
+|5|Voting System using Blockchain Technologies| <ul><li>[ ] Merged</li></ul> |
