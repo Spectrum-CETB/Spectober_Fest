@@ -5,7 +5,7 @@
 
 **We welcome you to make any project of your choice. These project ideas listed here represent what type of projects you can make. If you don't have any project idea in your mind then you definitely pick from these. But make sure you don't make a pull request for projects which are already merged to the repository. So we would suggest to check the project status before making a pull request for the ideas listed below.**
 
-## [AI & ML](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/AI_ML)
+## [AI & ML](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Advanced/AI_ML)
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
@@ -14,7 +14,7 @@
 |3|Object Detection| <ul><li>[ ] Merged</li></ul> |
 |5|ChatBot with RASA NLU | <ul><li>[ ] Merged</li></ul> |
 
-## [APP DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/APP_DEVELOPMENT)
+## [APP DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Advanced/APP_DEVELOPMENT)
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
@@ -24,7 +24,7 @@
 |4|Whatsapp Clone| <ul><li>[ ] Merged</li></ul> |
 |4|Healthy Diet App| <ul><li>[ ] Merged</li></ul> |
 
-## [HARDWARE DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/HARDWARE_DEVELOPMENT)
+## [HARDWARE DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Advanced/HARDWARE_DEVELOPMENT)
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
@@ -33,7 +33,7 @@
 |3|| <ul><li>[ ] Merged</li></ul> |
 |4|| <ul><li>[ ] Merged</li></ul> |
 
-## [PYTHON DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/PYTHON_DEVELOPMENT)
+## [PYTHON DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Advanced/PYTHON_DEVELOPMENT)
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
@@ -42,7 +42,7 @@
 |3|| <ul><li>[ ] Merged</li></ul> |
 |4|| <ul><li>[ ] Merged</li></ul> |
 
-## [WEB DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate/WEB_DEVELOPEMENT)
+## [WEB DEVELOPMENT](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Advanced/WEB_DEVELOPEMENT)
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
