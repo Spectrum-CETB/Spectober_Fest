@@ -1,7 +1,19 @@
 #  ![pokeball](https://user-images.githubusercontent.com/40180496/187277407-e1729fba-1c33-4072-80da-958e1e53d475.png) PokeCatch
 ---
 
+<a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate"><img src="https://img.shields.io/badge/Projects%20-Intermediate-blue.svg"/></a>
+
+## HOSTED IN GITHUB PAGES [ProjectLink](https://jeevanalok.github.io/PokeCatch/)
+
 ### A webapp for all pokemon fantics out there, a custom pokedex made with reactjs fetching data using axios module from poke api.
+
+
+## Salient Features:-
+- fetches data from **Pokeapi** using axios and displays the stats accordingly
+- dynamic cards which allow the background color to be adjusted to the type of pokemon
+- fetch unlimited number of pokemon and play with them as long as you can!
+
+## TECH STACK:- ReactJs, CSS,  
 
 
 ## Some screenshots
@@ -11,24 +23,4 @@
 
 
 
-
-
-
-
-
-
-## Get started
-
-### 1. clone the git repository
-`git clone https://github.com/jeevanalok/PokeCatch `
-
-### 2. Install the dependencies
-`npm install`
-
-### 3. In the project directory, you can run:
-
-`npm start`
-
-Runs the app and enjoy!
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
