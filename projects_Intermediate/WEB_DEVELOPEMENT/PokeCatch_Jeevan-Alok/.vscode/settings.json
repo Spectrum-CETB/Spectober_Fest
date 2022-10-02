@@ -1,0 +1,6 @@
+{
+    "github.gitAuthentication": true,
+    "git.decorations.enabled": true,
+    "git.ignoreLegacyWarning": false,
+    "git.enabled": false
+}

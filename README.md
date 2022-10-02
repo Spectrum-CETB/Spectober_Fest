@@ -5,13 +5,15 @@
 [![GitHub stars](https://img.shields.io/github/stars/Spectrum-CETB/Spectober_Fest?style=social)](https://github.com/Spectrum-CETB/Spectober_Fest/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Spectrum-CETB/Spectober_Fest.svg)](https://gitHub.com/Naereen/Spectrum-CETB/Spectober_Fest/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Spectrum-CETB/Spectober_Fest.svg)](https://GitHub.com/Spectrum-CETB/Spectober_Fest/pull/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/Spectrum-CETB/Spectober_Fest.svg)](https://github.com/sattwik21/Python-Practice/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub Contributors](https://img.shields.io/github/contributors/Spectrum-CETB/Spectober_Fest.svg)](https://github.com/sattwik21/Python-Practice/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # Introduction to Hacktoberfest 2022🚀
 
 <img width="2400" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/78409764/193025272-d0a721f8-ccd6-460f-adb4-73b236d0daea.png">
 
-## Welcome to Hacktoberfest 2022! 
+## Welcome to Hacktoberfest 2022!🎉
 Hacktoberfest is a month-long event of open-source with various software developers from all over the world participating in it, bringing their ideas to life through various projects. It encompasses a month-long jam of skill enhancement, contribution to numerous projects and broadening of the developers’ community. 
 Coding enthusiasts and even beginners to open-source can contribute to these projects by preparing and sharing the project for collaboration and by contributing to the betterment of the project via pull requests. 
 
@@ -54,5 +56,12 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 
 ### **_To know how to contribute_, [click here](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/CONTRIBUTION.md).**
 
-## Happy Coding ! 
+**Please don't forget to star⭐ this repository. This will encourage us to bring more such events for you❤️. Also do share your contributing experience by tagging us in your social handles, we will be happy🙂 to know about it from you.**
+
+### Follow us on:
+[<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Spectrum-CETB)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/company/spectrum-cet/mycompany/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/spectrum.cetb/)
+
+## Happy Coding💻 ! 
 
