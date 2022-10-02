@@ -4,7 +4,7 @@
 # Problem Explanation 🚀
 A majority element is an element that appears more than n/2 times in the array, where n is the size of the array.
 
-# Logic and Intuition
+# Logic and Intuition 🧠
 * An optimized approach will be to create a frequency array and store the frequency of each element that we iterate through the array, and finally check if the frequency of any element is greater than n/2 then that element is out majority element. The time complexity of this approach is O(n) and it has an additional space complexity of O(n) as well.
 * This can be further optimized by using [Moore's Voting Algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm) which can solve the problem in constant space.
 * In this algorithm we choose a candidate for majority element starting from the first element of the array, and we also initialize a count variable with 1.
