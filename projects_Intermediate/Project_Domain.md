@@ -36,7 +36,7 @@
 
 | SL No.| Project Names | Status |
 | :---------------: | :---------------: | :---------------: |
-|1|Desktop Notifier| <ul><li>[] Merged</li></ul> |
+|1|Desktop Notifier| <ul><li>[ ] Merged</li></ul> |
 |2|Image to PDF Converter| <ul><li>[X] Merged</li></ul> |
 |3|GUI Calculator| <ul><li>[ ] Merged</li></ul> |
 |4|Rock Paper Scissors| <ul><li>[ ] Merged</li></ul> |
