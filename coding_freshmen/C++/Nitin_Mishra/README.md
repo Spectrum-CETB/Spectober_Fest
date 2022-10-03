@@ -32,7 +32,10 @@ and if we are getting more profit than earlier at a certain price point, we upda
 
 # Time Complexity and Space Complexity
 * Time Complexity: O(n)
-* Space Complexity: O(n)
+* Space Complexity: O(1)
+
+<br>
+<hr>
 
 # 3. Problem Title: Anagram
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
@@ -45,4 +48,4 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 
 # Time Complexity and Space Complexity
 * Time Complexity: O(nlogn)
-* Space Complexity: O(n)
+* Space Complexity: O(1)
