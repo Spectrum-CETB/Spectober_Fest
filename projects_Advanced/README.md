@@ -5,7 +5,7 @@
 
 As the title above suggests this folder is for projects. So if you are completely new to programming you can navigate to [coding_freshmen](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/coding_freshmen) folder. This folder is for **advanced level projects**. If you want to work on intermediate level projects then navigate to [projects_Intermediate](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate) folder.
 
-### **This folder consist of folders of different domains related to software and hardware. You can find differnt domains in the list given below.**
+### **This folder consist of folders of different domains related to software and hardware. You can find different domains in the list given below.**
 
 | SL No.| Domains | Languages( can be used ) | Abbreviation |
 | :---------------: | :---------------: | :---------------: | :---------------: |
