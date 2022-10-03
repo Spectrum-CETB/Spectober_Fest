@@ -49,7 +49,7 @@ Follow all the rules and regulations given below otherwise your pull request wil
 
    # Project Demo View
    // This section is not mandatory.
-   // In this section you can add screenshot and videos of your working project. But
+   // In this section you can add screenshot and videos of your working project.
 
    # Contributors
    // This section is not mandatory. Add contributors GitHub Profile Link with their full names if this is a group project.
