@@ -1,9 +1,9 @@
 
 # Advanced Projects🚀
 
-<a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate"><img src="https://img.shields.io/badge/Projects%20-Intermediate-blue.svg"/></a>
+<a href="https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate"><img src="https://img.shields.io/badge/Projects%20-Advanced-red.svg"/></a>
 
-As the title above suggests this folder is for projects. So if you are completely new to programming you can navigate to [coding_freshmen](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/coding_freshmen) folder. This folder is for **intermediate level projects**. If you want to work on advanced level projects then navigate to [projects_Advanced](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Advanced) folder.
+As the title above suggests this folder is for projects. So if you are completely new to programming you can navigate to [coding_freshmen](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/coding_freshmen) folder. This folder is for **advanced level projects**. If you want to work on intermediate level projects then navigate to [projects_Intermediate](https://github.com/Spectrum-CETB/Spectober_Fest/tree/main/projects_Intermediate) folder.
 
 ### **This folder consist of folders of different domains related to software and hardware. You can find differnt domains in the list given below.**
 
@@ -20,7 +20,7 @@ As the title above suggests this folder is for projects. So if you are completel
 Follow all the rules and regulations given below otherwise your pull request will be made invalid.
 
 *  Push your projects folder to the particular domain folder.
-*  Name your folder according to format. ( `projectName_Your-Full-Name.Abbreviation` example: todo_John-Doe.WD ).
+*  Name your folder according to format. ( `projectName_Your-Full-Name` example: todo_John-Doe ).
 *  Multiple submissions of same project is not allowed.
 *  Give a brief description about the project in the pull request.
 *  Add a `README.md` file to your project with the following format:
@@ -49,7 +49,7 @@ Follow all the rules and regulations given below otherwise your pull request wil
 
    # Project Demo View
    // This section is not mandatory.
-   // In this section you can add screenshot and videos of your working project. But
+   // In this section you can add screenshot and videos of your working project.
 
    # Contributors
    // This section is not mandatory. Add contributors GitHub Profile Link with their full names if this is a group project.
@@ -60,7 +60,7 @@ Follow all the rules and regulations given below otherwise your pull request wil
 
    ```
 
-### **If you don't have any idea about what projects to start with or to have an idea about what kind of projects are acceptable for this folder then [click here](www.example.org).**
+### **If you don't have any idea about what projects to start with or to have an idea about what kind of projects are acceptable for this folder then [click here](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/projects_Advanced/Project_Domain.md).**
 
 **Please go through the [README.md](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/README.md) and [CONTRIBUTION.md](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/CONTRIBUTION.md) before starting to contribute.**
 

@@ -5,6 +5,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/Spectrum-CETB/Spectober_Fest?style=social)](https://github.com/Spectrum-CETB/Spectober_Fest/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Spectrum-CETB/Spectober_Fest.svg)](https://gitHub.com/Naereen/Spectrum-CETB/Spectober_Fest/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Spectrum-CETB/Spectober_Fest.svg)](https://GitHub.com/Spectrum-CETB/Spectober_Fest/pull/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/Spectrum-CETB/Spectober_Fest.svg)](https://github.com/sattwik21/Python-Practice/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub Contributors](https://img.shields.io/github/contributors/Spectrum-CETB/Spectober_Fest.svg)](https://github.com/sattwik21/Python-Practice/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # Introduction to Hacktoberfest 2022🚀
@@ -60,6 +62,7 @@ Coding enthusiasts and even beginners to open-source can contribute to these pro
 [<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Spectrum-CETB)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/company/spectrum-cet/mycompany/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/spectrum.cetb/)
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/U2PzJavujD)
 
 ## Happy Coding💻 ! 
 
