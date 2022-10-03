@@ -34,23 +34,7 @@ and if we are getting more profit than earlier at a certain price point, we upda
 * Time Complexity: O(n)
 * Space Complexity: O(n)
 
-# 3. Problem Title: Product Finder
-You are given an array of size n.
-You need to find the product of the elements of the array except the pivot element
-
-# Problem Explanation 🚀
-Return the product of all elements of array excl;uding the pivot element. Assuming pivot element refers to the first matching element in the array.
-
-# Logic and Intuition 🧠
-* We take an integer initialised as 1, and a boolean as false. 
-* We iterate over the array, and if we find a matching element to the one provided, we consider that pivot has been found, and do not include it in the product. 
-* The rest of the array is multiplied as a running product in the previously initialised integer, the result is returned after iteration is finished,
-
-# Time Complexity and Space Complexity
-* Time Complexity: O(n)
-* Space Complexity: O(n)
-
-# 4. Problem Title: Anagram
+# 3. Problem Title: Anagram
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
 # Problem Explanation 🚀
