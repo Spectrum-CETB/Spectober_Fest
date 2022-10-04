@@ -14,6 +14,6 @@ class sort {
             arr[i]=sc.nextInt();
         Arrays.sort(arr);
 
-        System.out.printf("Modified arr[] : %s", Arrays.toString(arr));
+        System.out.println("Modified arr[] : %s", Arrays.toString(arr));
     }
 }
