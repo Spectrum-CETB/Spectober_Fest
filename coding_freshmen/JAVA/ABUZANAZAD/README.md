@@ -14,8 +14,8 @@ It is a sorting of an array in ascending order
 # Your logic 🤯
 * I used the Java util package for it Scanner class for input and Arrays.sort method to sort the array in ascending order.
 * Own test cases if any:
-*     Input array: [1,0,0,1,0]
-*     Output array: [0,0,0,1,1]
+*     Input array: [0,1,0,1,1,0,0]
+*     Output array: [0, 0, 0, 0, 1, 1, 1]
 
 // Time Complexity: O(N log N)
 // Auxiliary Space: O(1)
