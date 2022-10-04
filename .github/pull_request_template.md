@@ -1,6 +1,6 @@
 ---
-name: ''
-about: ''
+name: PR Template
+about: Pull Request Template
 title: ''
 labels: hacktoberfest
 assignees: ''
