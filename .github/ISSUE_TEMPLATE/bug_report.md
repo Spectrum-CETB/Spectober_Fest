@@ -1,13 +1,13 @@
 ---
-name: Issue Report
+name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: App Development, approved, assigned
+labels: bug, hacktoberfest
 assignees: ''
 
 ---
 
-**Describe the issue**
+**Describe the bug**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
