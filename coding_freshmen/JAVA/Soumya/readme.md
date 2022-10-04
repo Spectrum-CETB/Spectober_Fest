@@ -1,40 +1,19 @@
-# Anagrams
+# 1. Problem Title: Maximum Sum
+  Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+  (A subarray is a contiguous part of an array.)
 
-Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+# Problem Explanation 🚀
+Here, the user gives input for n-size array and the elements for the array .
+Then, we have to print out maximum sum possible from adding elements of contiguous subarray. 
 
-An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+# Logic and Intuition 🧠
 
-## Problem Explanation
+* In the first iteration i divided the array into n number of subarray (n: number of elements in the array) and compared them with each other, the maximum integer gets stored in the max variable. In the second iteration, i have taken summation of 2 adjacent elements and compared them, the maximum summation gets stored in the max variable. In the third iteration, i have taken summation of 3 adjacent elements and compared them, the maximum summation gets stored in the max variable. And so on. 
+* Here, i have taken two variables max and sum. "max" stores maximum sum of subarray found so far and second variable "sum" which stores summation of array elements into it as it iterates through the array.
+* Everytime there is a sum value in "sum" compare it with "MAX" and update "MAX" if it is greater than "MAX" .
 
-We can consider two strings as anagrams, if they have the same characters, and each character occurs with the same frequency. Hence, the problem can be solved by maintaining the frequency of characters.
+* TESTCASES:- 
+  1) [-2,1,-3,4,-1,2,1,-5,4] --> 6
+  2) [1,2,3,4,-7,4,8] --> 15
 
-## My Logic
-
-1. Read in the strings from input.
-2. Created a boolean function named anagram.
-3. Converted the strings to arrays of characters.
-4. Sorted the characters in array.
-5. If the arrays are equal then true else false.
-
-## Test cases
-
-1. Both are anagrams:
-   - Input: s = "anagram" t = "nagaram"
-   - Output: true
-
-2. Both are not anagrams:
-
-   - Input: s = "top" t = "cot"
-   - Output: false
-
-3. One is empty string:
-
-   - Input: s = "hey" t = ""
-   - Output: false
-
-4. Both are empty strings:
-   - Input: s = "" t = ""
-   - Output: true
-   
-   
 <!-- I don't know how to calculate time and space complexity-->
