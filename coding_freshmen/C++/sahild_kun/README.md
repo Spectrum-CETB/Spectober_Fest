@@ -32,6 +32,7 @@ So what we have to is basically find the profits and from them return the maximu
 *now we compare the prices of ith day and its next days till n..if price increases we calculate the diff
 *now if the diff is greater than earlier profit then profit updates and maximum profit is printed and if no profit then 0 is printed
 *test cases -[1,2,3,4], [7,1,5,3,6,4]
+* libraray used :- <iostream> c++ library
 
 # Time Complexity and Space Complexity
 cpp
