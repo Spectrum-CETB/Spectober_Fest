@@ -15,7 +15,7 @@ We need to find the product of all elements of the array while skipping the pivo
 # 2. Problem Title: ANAGRAMS
 Given two strings s and t we have to check if they are anagrams or not
 
-# Problem Explanation 🚀
+# Problem Explanation 
 An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. e.g. 'anagrams' and 'nagarams' are anagrams but 'car' and 'rat' are not anagrams.
 
 # Intuition and Logic🧠
