@@ -17,7 +17,7 @@ cpp
  Time Complexity -> O(n^2)
  Space Complexity -> O(n)
  
-# 2.PROFICENT_TRADER
+# 2.PROFICIENT_TRADER
 
 Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
 
