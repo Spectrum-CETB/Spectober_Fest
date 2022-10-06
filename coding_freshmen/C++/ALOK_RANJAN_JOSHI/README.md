@@ -8,6 +8,8 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 
 # Logic and Intuition
 
-- Here the logic i applied is to sort both the striings and compare both s
+- Here the logic i applied is to sort both the striings and compare both strings.
 
 # Time Complexity and Space Complexity
+* Time Complexity: O(n logn)
+* Space Complexity: O(1)
