@@ -46,6 +46,8 @@ Space Complexity -> O(1)
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <h1>PROFICIENT_TRADER</h1>
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
