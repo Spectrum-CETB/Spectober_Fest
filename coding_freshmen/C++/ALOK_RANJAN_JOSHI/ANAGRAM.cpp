@@ -10,3 +10,5 @@ int main()
 
     return 0;
 }
+
+//It's code by ALOK RANJAN JOSHI
