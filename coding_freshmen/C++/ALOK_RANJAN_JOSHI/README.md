@@ -16,7 +16,7 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 - Space Complexity: O(1)
 <hr>
 
-# 1. Problem Title: PATTERN_FINDER
+# 2. Problem Title: PATTERN_FINDER
 
 Given a text txt[0. . .n-1] and a pattern pat[0. . .m-1].
 
