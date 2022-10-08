@@ -21,3 +21,28 @@ Then, we have to print out maximum sum possible from adding elements of contiguo
 * Time Complexity: O(n)
 * Space Complexity: O(1)
 
+<hr>
+
+# 1. Problem Title: SORT_01
+  You are given an array of 0s and 1s in random order.
+  Segregate 0s on left side and 1s on right side of the array [Basically you have to sort the array].
+
+# Problem Explanation 🚀
+  Here the user provide an array consist of 0s ans 1s only.
+  According to the problem we have to put 0s to left side and 1s to the right side of that array. 
+
+# Logic and Intuition 🧠
+* Here, the approach is to provide two cariables pointing towards the extreme opposite ends.
+  And then traverse the array from both the sides, keep on traversing from left while there is 0s at it.
+  or from right while there is 1s at it.
+* If after one by one traversing, if l-variable is smaller than r-variable then exchange the values.
+
+** Probably the best approach here would have been to sort the given array with MERGE sort.
+
+* TESTCASES:- 
+  1) [0, 1, 0, 1, 0, 0, 1, 1, 1, 0]  --> [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+  2) [ 0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1]  --> [ 0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1]
+
+# Time Complexity and Space Complexity
+* Time Complexity: O(n)
+* Space Complexity: O(1)
