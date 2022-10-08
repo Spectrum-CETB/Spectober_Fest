@@ -24,13 +24,16 @@ Space Complexity -> O(n)
 # 2.Title of the Problem:Sort_array
 
 You are given an array of 0s and 1s in random order.
+
+# Problem Explanation 🚀
+
 Segregate 0s on left side and 1s on right side of the array [Basically you have to sort the array].
 Input array = [0, 1, 0, 1, 0, 0, 1, 1, 1, 0]
 Output array = [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
 
-# Problem Explanation 🚀
-
 # Your logic 🤯
+
+- simply we have to sorting the array in ascending order.
 
 # Time Complexity and Space Complexity
 
