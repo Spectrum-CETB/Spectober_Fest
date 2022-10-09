@@ -1,9 +1,12 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.next();
+        String t = sc.next();
 
-        String s = "rat", t = "car";
         System.out.println(anagram(s, t));
 
     }
