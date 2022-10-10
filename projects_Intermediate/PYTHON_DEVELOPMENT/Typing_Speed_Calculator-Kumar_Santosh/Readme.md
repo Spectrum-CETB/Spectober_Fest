@@ -7,7 +7,6 @@ This is a python program you can use to calculate your typing speed in the Tkint
 Improve yourself by increasing your Keyboard typing speed to write code faster.<br>
 Challenge ur friends and others as well into the battle.<br> 
 
-RUN THE typing_speed.py
 
 ```bash
   RUN THE typing_speed.py
