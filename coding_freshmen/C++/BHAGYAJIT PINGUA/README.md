@@ -24,3 +24,34 @@
   Time complexity:-O(n*n)
   Space Complexity:-O(n)
   
+# Problem Title: PATTERN_FINDER
+  Given a text txt[0. . .n-1] and a pattern pat[0. . .m-1].
+write a function search(char pat[], char txt[]) that prints all occurrences of pat[] in txt[].
+You may assume that n > m.
+
+# Problem Explanation 🚀
+  Here the user inputs two strings, one of the string is very very larger in size than the other one. The objective is to find the number of times the smaller string appears in the larger string.
+  
+# Logic and Intuition
+  Here, the approach is that the the user inputs two strings, then the length of the two string is first found, then a loop executes n(length of txt) times and inside that loop there's another loop that executes m(length of pat) times, and checks the number of times pat appears in txt, a counter variable updates, if it is equal to m then the index position at which the pattern is found in the text is printed.
+  
+  
+ TESTCASE:-
+1. 
+ABABABBBBBABABBBBABBBBBBB
+AB
+Patten found at index 0
+Patten found at index 2
+Patten found at index 4
+Patten found at index 10
+Patten found at index 12
+Patten found at index 17
+
+2.
+ajv avavqaujhv qqbvqaefvbqa
+ ava
+Patten found at index 3
+
+# Time Complexity and Space Complexity
+  Time complexity:-O(n*n)
+  Space Complexity:-O(n)

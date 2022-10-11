@@ -2,7 +2,7 @@
 name: Issue Report
 about: Create a report to help us improve
 title: ''
-labels: App Development, approved, assigned
+labels: ''
 assignees: ''
 
 ---
