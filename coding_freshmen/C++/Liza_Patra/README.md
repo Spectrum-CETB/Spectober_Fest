@@ -55,5 +55,5 @@ You may assume that n > m.
 
 # Time Complexity and Space Complexity
 
-Time Complexity -> O(n\*n)
+Time Complexity -> O(n^2)
 Space Complexity -> O(n)
