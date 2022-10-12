@@ -39,3 +39,20 @@ Output array = [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
 
 Time Complexity -> O(n logn)
 Space Complexity -> O(n)
+
+# 3.Title of the Problem:Sort_array
+
+
+
+# Problem Explanation 🚀
+
+
+
+# Your logic 🤯
+
+
+
+# Time Complexity and Space Complexity
+
+Time Complexity -> O()
+Space Complexity -> O()
