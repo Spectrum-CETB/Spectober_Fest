@@ -39,3 +39,21 @@ Output array = [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
 
 Time Complexity -> O(n logn)
 Space Complexity -> O(n)
+
+# 3.Title of the Problem:PATTERN_FINDER
+
+Given a text txt[0. . .n-1] and a pattern pat[0. . .m-1].
+
+# Problem Explanation 🚀
+
+write a function search(char pat[], char txt[]) that prints all occurrences of pat[] in txt[].
+You may assume that n > m.
+
+# Your logic 🤯
+
+\*Here the logic that i applied is to copy a part of txt string of length equal to p string to another variable. Then this variable is compared to the string pa, if they are equal then print the msg, oterwise continue the loop. The loop continue to the index (n - m) of txt string.
+
+# Time Complexity and Space Complexity
+
+Time Complexity -> O(n^2)
+Space Complexity -> O(n)
