@@ -57,3 +57,24 @@ You may assume that n > m.
 
 Time Complexity -> O(n^2)
 Space Complexity -> O(n)
+
+# 4.Title of the Problem:2D_ARRAY_SUM
+
+\*Write an efficient algorithm that returns sum upto a value target in an m x n integer matrix . This matrix has the following properties:
+
+# Problem Explanation 🚀
+
+\*Integers in each row are sorted from left to right.
+The first integer of each row is greater than the last integer of the previous row.
+Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 10
+Output: 16
+Explanation : 1+3+5+7 = 16
+
+# Your logic 🤯
+
+Adding the value till the target will encountered .
+
+# Time Complexity and Space Complexity
+
+Time Complexity -> O(n^2)
+Space Complexity -> O(n^2)
