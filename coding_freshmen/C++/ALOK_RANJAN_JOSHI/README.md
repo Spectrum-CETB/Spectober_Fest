@@ -49,3 +49,19 @@ Given a roman numeral, convert it to an integer. Input is guaranteed to be withi
 
 - Time Complexity: O(n)
 - Space Complexity: O(n)
+
+# 4. Problem Title: MAXIMUM_SUM
+
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+# Problem Explanation
+
+A subarray is a contiguous part of an array.
+
+# Logic and Intuition
+
+- Here the logic that i applied is to add the numbers from starting index, if it's found greater than the sum then this value will be assigned to the sum, if the addition value become negative, then it's made 0.
+# Time Complexity and Space Complexity
+
+- Time Complexity: O(n)
+- Space Complexity: O(n)
