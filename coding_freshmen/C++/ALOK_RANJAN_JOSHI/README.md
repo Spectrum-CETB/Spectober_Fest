@@ -32,3 +32,20 @@ You may assume that n > m.
 
 - Time Complexity: O(n^2)
 - Space Complexity: O(n)
+
+# 3. Problem Title: ROMAN_TO_INTEGER
+
+Given a roman numeral, convert it to an integer. Input: s = "III" Output: 3 Explanation: III = 3
+
+# Problem Explanation
+
+Given a roman numeral, convert it to an integer. Input is guaranteed to be within the range from 1 to 3999. In order to solve this problem, I needed to first understand how to read roman numerals and translate them my hand.
+
+# Logic and Intuition
+
+- Here the logic that i applied is that is the value of roman alphabet of any position is lesser than it's immediate right position then it has to be added oterwise it has to be subtracted.
+
+# Time Complexity and Space Complexity
+
+- Time Complexity: O(n)
+- Space Complexity: O(n)
