@@ -51,7 +51,7 @@ You may assume that n > m.
 
 # Your logic 🤯
 
-\*Here the logic that I applied is to copy a part of txt string of length equal to p string to another variable. Then this variable is compared to the string pa, if they are equal then print the msg, oterwise continue the loop. The loop continue to the index (n - m) of txt string.
+\*Here the logic that i applied is to copy a part of txt string of length equal to p string to another variable. Then this variable is compared to the string pa, if they are equal then print the msg, oterwise continue the loop. The loop continue to the index (n - m) of txt string.
 
 # Time Complexity and Space Complexity
 
