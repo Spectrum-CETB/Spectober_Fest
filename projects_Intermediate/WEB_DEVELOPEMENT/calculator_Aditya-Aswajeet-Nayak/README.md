@@ -1,2 +1,2 @@
 - Project Name - Simple Calculator
-- Stack Used - HTML5 ,CSS5 ,JAVASCRIPT
+- Tech Stack Used - HTML5 ,CSS5 ,JAVASCRIPT
