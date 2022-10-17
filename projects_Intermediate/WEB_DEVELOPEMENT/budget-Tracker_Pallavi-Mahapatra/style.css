@@ -1,0 +1,164 @@
+
+
+
+.title {
+ 
+  opacity: 0.8;
+  text-align: center;
+
+  
+}
+
+.container-fluid {
+  padding: 30px 40px;
+  border-radius: 1rem;
+  
+  margin: 25px;
+  /* width: 350px; */
+  background-color: #C9B79C;
+}
+
+h1{
+  font-family:  "Copperplate", fantasy;
+}
+
+.heading{
+  text-align: center;
+}
+
+
+h1 {
+  letter-spacing: 2px;
+  margin: 0;
+  margin: 10px 0 10px;
+  text-transform: uppercase;
+  color: #342A21;
+}
+
+.txt{
+  text-align:center;
+  border-width:2px;
+  border-radius: 8px;
+  border-color:#C9B79C;
+  font-size:medium;
+  width: 80%;
+}
+
+h3 {
+  border-bottom: 1px solid #bbb;
+  padding-bottom: 5px;
+  margin-bottom: 12px;
+  text-align: center;
+  color: #342A21;
+}
+
+h4 {
+  margin: 0;
+  text-transform: uppercase;
+  color: #C9B79C;
+}
+#balance {
+  color: azure;
+}
+
+.income-expense {
+  background-color: #342A21;
+  justify-content: space-between;
+  color: black;
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 1rem;
+  box-shadow: 0 5px 6px #342A21;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.income-expense > div {
+  flex: 1;
+  text-align: center;
+}
+
+
+
+.income,
+.expense,
+#balance {
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin: 5px 0;
+
+  color: #C9B79C;
+}
+
+.income {
+  color: #C9B79C;
+}
+.expense {
+  color: #C9B79C;
+}
+#balance {
+  color: #C9B79C;
+}
+
+
+
+label {
+color: #342A21;
+  font-style: bold;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  
+}
+
+.btn {
+  
+ 
+    border: none;
+    background-color: #342A21;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   
+}
+.btn:hover {
+  color:#342A21;
+  box-shadow: 0 5px 10px 0 #342A21;
+}
+
+.delete-btn {
+  background-color: #C9B79C;
+  border-radius: 5rem;
+  outline: black;
+  float: right;
+  margin-right: 5px;
+  width: 25px;
+  height: 30px;
+}
+
+
+
+ul {
+  list-style: none;
+  display: inline;
+}
+ul li {
+  font-weight: bolder;
+  font-size: 21px;
+}
+
+
+
+#error_msg {
+  color: red;
+  background-color: #C9B79C;
+  font-weight: bolder;
+  padding: 0 10px;
+  border-radius: 1rem;
+}
+
+.list {
+  color: #342A21;
+}
+
