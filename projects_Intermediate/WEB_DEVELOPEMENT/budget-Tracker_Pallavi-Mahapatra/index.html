@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+    <title>My Budget App</title>
+  </head>
+  <body class="container-fluid" >
+    
+      <h1 class="heading">
+        Welcome to the Budget-Tracker!  <i class="fa fa-money" style="font-size:36px"></i>
+      </h1>
+    
+      <div class="container-fluid">
+      <p id="error_msg"></p>
+  <div>
+        <h1 class="title">
+          TRACK YOUR MONEY! <i class="fa fa-line-chart" id="graph" style="font-size:36px;color: #342A21;";></i>
+    
+        </h1>
+
+  <div class="row">
+  <div class="col-md-4" >
+      
+      <form id="form" autocomplete="off">
+        <div>
+          <label>About</label>
+          <br>
+          <input
+          class="txt"
+            type="text"
+            id="text"
+          
+            placeholder="Enter About"
+          />
+        </div>
+        <br>
+        
+       
+      
+
+        <div >
+          <label>Enter amount in +/- <br /> </label>
+          <br>
+          <input
+          class="txt"
+            type="number"
+            id="amount"
+            
+            placeholder="Enter amount"
+          />
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <button class="btn" style="font-size:48px;color: #C9B79C; background-color: #342A21;">ADD  <i class="fa fa-plus"></i></button>
+      </form>
+      <br />
+</div>
+
+
+
+
+
+<div class="col-md-4">
+      <div class="income-expense">
+        <div>
+          <h4>Income</h4>
+          <p class="income" id="income">0</p>
+        </div>
+    
+        <div>
+          <h4>Expenditure</h4>
+          <p class="expense" id="expense">0</p>
+        </div>
+        <div>
+          <h4>Current-Balance</h4>
+          <p id="balance">0</p>
+        </div>
+      </div>
+  </div>
+  <div class="col-md-4">
+  <h3>Transaction-History</h3>
+      
+      <ul id="list" class="list"></ul>
+</div></div>
+</div>
+</div>    
+    </div>
+  </div>
+    <script src="main.js"></script>
+  </body>
+</html>
