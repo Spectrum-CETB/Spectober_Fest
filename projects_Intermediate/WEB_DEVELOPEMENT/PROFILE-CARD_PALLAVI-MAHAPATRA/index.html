@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+    <script  src="profile.js"></script>
+
+   
+    <title>PORFILE CARD</title>
+</head>
+    <body> 
+    <div class="container">
+       <div class="row">
+            <div class="col-md-5 ">
+                <h2>Enter Your Details!</h2>
+                <br>
+                    
+                    <input class="txt" type="text" id="name" name="name"placeholder="Name" required>
+                        <br><br>
+                    <input class="txt" type="text" id="about"name="about" placeholder="About" required>
+                        <br><br>
+                    <input class="txt"type="text" id="phoneno." name="phoneno" placeholder="Phone No." required>
+                        <br><br>
+                    <input class="txt" type="email" id="address" name="address" placeholder="Address"required>
+                        <br><br>
+                    <input class="txt" type="text" id="college" name="college"placeholder="College" required>
+                        <br><br>
+                        <input type="button" id=btn value="Submit" onclick="Details()">
+                    
+                </div>
+                <div class="col-md-2 ">
+                </div>
+                <div class="col-md-5">
+                    <h2 >Your Details</h2>
+                    <br>
+                 <p>NAME: <span id=span1></span></p> <br>
+                 <p>ABOUT: <span id=span2></span></p><br>
+                 <p>PHONE NO.: <span id=span3></span></p><br>
+                 <p>ADDRESS: <span id=span4></span></p><br>
+                 <p>COLLEGE: <span id=span5></span></p><br>
+                 
+        
+                </div>
+            </div>
+        </div>  
+    </body>
+</html>
