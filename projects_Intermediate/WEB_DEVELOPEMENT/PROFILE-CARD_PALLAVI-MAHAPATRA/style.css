@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(249, 230, 250);
+}
+.container{
+    background-color:rgb(249, 230, 250);
+    margin-top: 100px;
+}
+.col-md-5{
+    background-color: plum;
+}
+h2{
+    text-align: center;
+    color: purple;
+    text-shadow: rgb(249, 230, 250) 30px;
+    font-style: italic;
+}
+p{
+    font-style: italic;
+}
+#btn{
+    text-align: center;
+    background-color: purple;
+    font-size:large;
+    border-style:inset;
+    border-width:2px;
+    border-radius: 12px;
+
+}
+.txt{
+    text-align:center;
+    border-width:2px;
+    border-radius: 8px;
+    border-color:black;
+    font-size:medium;
+    width: 60%;
+}
