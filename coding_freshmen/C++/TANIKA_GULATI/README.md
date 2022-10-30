@@ -1,6 +1,4 @@
-Problem 1: MAJORITY_ELEMENT
-
-# <Title of the Problem>
+# Problem 1: MAJORITY_ELEMENT
 Given an array nums of size n, return the majority element.
 
 # Problem Explanation 🚀
@@ -14,9 +12,7 @@ Time Complexity -> O(n)
 Space Complexity -> O(1)
 
 
-Problem 2: SORT_01
-
-# <Title of the Problem>
+# Problem 2: SORT_01
 You are given an array of 0s and 1s in random order. Sort the array.
 
 # Problem Explanation 🚀
