@@ -10,3 +10,17 @@ Approach: Initialize count with zero. Initialize max with first element of array
 # Time Complexity and Space Complexity
 Time Complexity -> O(n)
 Space Complexity -> O(1)
+
+
+# Problem 2: SORT_01
+You are given an array of 0s and 1s in random order. Sort the array.
+
+# Problem Explanation 🚀
+Segregate 0s on left side and 1s on right side of the array.
+
+# Your logic 🤯
+Approach: Initialize start and end positions of the array. Increment start if array element at start is 0. If it is 1, swap the elements at start and end, and decrement end by 1. Repeat the steps until start is less than end.
+
+# Time Complexity and Space Complexity
+Time Complexity -> O(n)
+Space Complexity -> O(1)
