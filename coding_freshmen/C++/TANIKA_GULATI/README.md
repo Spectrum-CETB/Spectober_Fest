@@ -24,3 +24,17 @@ Approach: Initialize start and end positions of the array. Increment start if ar
 # Time Complexity and Space Complexity
 Time Complexity -> O(n)
 Space Complexity -> O(1)
+
+
+# Problem 2: ROMAN_TO_DECIMAL
+Given a roman numeral, convert it to an integer
+
+# Problem Explanation 🚀
+The roman number system consists of 7 main symbols which are I, V, X, L, C, D, M which represent 1, 5, 10, 50, 100, 500, 1000 integer numbers respectively. Based on these roman symbols we can construct any integer number.
+
+# Your logic 🤯
+Approach: Using hashmap, which maps keys to values forming a pair. In this case the roman characters are mapped to their corresponding integer equivalents. Iterating through the string, if current character value is less than next character value, subtract the two and add their answer to result variable, increment the loop variable and continue, otherwise add the current character value to result and proceed with the loop.
+
+# Time Complexity and Space Complexity
+Time Complexity -> O(n)
+Space Complexity -> O(1)
